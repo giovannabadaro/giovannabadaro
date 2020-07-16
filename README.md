@@ -4,6 +4,7 @@ I’m currently working with front-end development with React, but I'm also skil
 ![Alt Text](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
 ## About me: 
+My focus area is front-end development with React, but I'm also skilled in back-end with node. 
 
 ### Skills with: 
 JavaScript, HTML, CSS, React, React Native, Node js, MySQL DB, Scrum, Python, Machine Learning, Prototype UI.
