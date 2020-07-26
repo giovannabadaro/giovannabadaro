@@ -1,7 +1,6 @@
 # Hi there, I'm Giovanna 👋
 I’m currently working with front-end development with React, but I'm also skilled in back-end development with node js.
 
-![Alt Text](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
 ## About me: 
 My focus area is front-end development with React, but I'm also skilled in back-end with node. 
