@@ -6,7 +6,7 @@ I’m currently working with front-end development with React, but I'm also skil
 My focus area is front-end development with React, but I'm also skilled in back-end with node. 
 
 ### Skills with: 
-JavaScript, HTML, CSS, React, React Native, Node js, MySQL DB, Scrum, Python, Machine Learning, Prototype UI.
+JavaScript, TypeScript, HTML, CSS, React, React Native, Node js, MySQL DB, Scrum, Python, Machine Learning, Prototype UI.
 
 :heart: **Wine | :black_heart: Cooking | :blue_heart: Programming**
 
